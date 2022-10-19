@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643983694000",
+    "project_id": "registrationaccesscontrol",
+    "storage_bucket": "registrationaccesscontrol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643983694000:android:bcc3b5d4b5e5a7ed108375",
+        "android_client_info": {
+          "package_name": "com.example.access"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643983694000-f6b143behosau851lsqikevvr6fo9gje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB48mA5UYs7U1TBGlemUGxCTxrXLqDRZlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643983694000-f6b143behosau851lsqikevvr6fo9gje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
